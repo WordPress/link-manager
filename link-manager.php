@@ -2,7 +2,11 @@
 /* Plugin Name: Link Manager
  * Description: Enables the Link Manager that existed in WordPress until version 3.5.
  * Author: WordPress
- * Version: 0.1-beta
+ * Requires at least: 3.5
+ * Requires PHP: 5.6
+ * Version: 0.1-beta2
+ *
+ * @package link-manager
  */
 
 /*
